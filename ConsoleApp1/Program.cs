@@ -9,7 +9,6 @@ namespace CalculadoraCoordenadas
     {
         private static bool saida;
         private static string Direcao;
-
         public static string Intensidade;
         private static string valorX;
         private static string valorY;
